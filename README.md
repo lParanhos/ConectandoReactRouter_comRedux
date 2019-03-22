@@ -1,2 +1,2 @@
-# ConectandoReactRouter_comRedux
-React Router Dom com React
+# React com Redux
+Entendendo como funciona o Redux
